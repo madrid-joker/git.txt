@@ -1,5 +1,5 @@
 FIO: Alex Basnin
-Age: 29
+Age: 30
 Number of pets: 1
 Expected compansation: 2000$
 
