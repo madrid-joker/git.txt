@@ -1,0 +1,5 @@
+Terminal
+Git
+Client-server architecture
+Fiddler
+API
