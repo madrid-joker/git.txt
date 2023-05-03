@@ -1,1 +1,11 @@
 
+Priority: Normal  
+Summary: The error message is displayed after clickcing the Confirm button on the Add a movie page
+Pre-conditions:
+1.User is logged in
+2.Open the movie categoty
+Steps to reproduced: 
+1.Click the Add movie button
+2.Fill all mandatory field with valid data
+Actual result: The error message is displayed after clickcing the Confirm button on the Add a movie page
+Expected result: The newly movie was added after clickcing the Confirm button on the Add a movie page
